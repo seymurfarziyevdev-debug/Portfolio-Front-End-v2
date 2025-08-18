@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     const wakeBackend = async () => {
       try {
-        const res = await fetch("https://portfolio-back-end-pq1j.onrender.com//api/projects");
+        const res = await fetch("https://portfolio-back-end-pq1j.onrender.com/api/projects");
         if (res.ok) {
           setBackendReady(true);
         } else {
