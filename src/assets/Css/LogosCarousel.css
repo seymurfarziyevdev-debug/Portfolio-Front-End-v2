@@ -9,7 +9,7 @@
   cursor: grab;
   outline: none;
 
-  .percent{
+  .percent{ 
     height: 2px;
     display: flex;
     width: 82%;
@@ -41,5 +41,9 @@
   }
 }
 
+
+.slick-slide{
+  width: 226px !important;
+}
 
 
