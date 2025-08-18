@@ -43,7 +43,9 @@
 
 
 .slick-slide{
-  width: 226px !important;
+  width: 228px !important;
+    margin-right: 2px;
+    margin-left: -2px;
 }
 
 
