@@ -1,5 +1,5 @@
 import '../assets/Css/Header.css'
-import profileImg from '../assets/img/profile.jpg'; 
+import profileImg from '../assets/img/seymur.jpeg'; 
 import github from '../assets/img/icon2.png';
 import javascript from '../assets/img/javascript-logo-javascript-icon-transparent-free-png.webp'
 import VsCode from '../assets/img/Visual_Studio_Code_1.35_icon.svg.png'
@@ -43,7 +43,7 @@ const Header = () =>{
                         <div><h1>02</h1><p>Years<br/> of Experance</p></div>
                         <div><h1>40</h1><p>+<br/> Project</p></div>
                         <div>
-                            <a href="/files/Seymur_Farziyev.CV.pdf" download="Seymur_Farziyev_CV" class="butn butn-md butn-bord radius-5 skew">
+                            <a href="/files/Seymur.Farziyev_Resume.pdf" download="Seymur.Farziyev_Resume" class="butn butn-md butn-bord radius-5 skew">
                                 <span>Download C.V</span>
                             </a>
                         </div>
