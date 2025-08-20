@@ -43,7 +43,7 @@ const Header = () =>{
                         <div><h1>02</h1><p>Years<br/> of Experance</p></div>
                         <div><h1>40</h1><p>+<br/> Project</p></div>
                         <div>
-                            <a href="/files/Seymur.Farziyev_Resume.pdf" download="Seymur.Farziyev_Resume" class="butn butn-md butn-bord radius-5 skew">
+                            <a href="/files/Seymur_Farziyev_Resume.pdf" download="Seymur.Farziyev_Resume" class="butn butn-md butn-bord radius-5 skew">
                                 <span>Download C.V</span>
                             </a>
                         </div>
