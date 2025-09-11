@@ -76,7 +76,6 @@ const Portfolio = () => {
             <a href={project.project_url} target="_blank" rel="noopener noreferrer" className='goproject'>
               <TfiArrowTopRight />
             </a>
-            <p className="text-gray-500">{project.technologies}</p>
           </div>
         ))}
       </div>

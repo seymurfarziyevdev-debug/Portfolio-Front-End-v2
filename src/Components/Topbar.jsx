@@ -15,7 +15,7 @@ function Topbar() {
         <div className='sosial-links'>
             <a href='https://www.linkedin.com/in/seymur-farziyev-33b577288/' target="_blank"><FaLinkedinIn/></a>
             <a href='https://wa.me/994559491633' target="_blank"><FaWhatsapp/></a>
-            <a href='https://github.com/Seymurss' target="_blank"><FaGithub/></a>
+            <a href='https://github.com/seymurfarziyevdev-debug' target="_blank"><FaGithub/></a>
             <a href='https://www.instagram.com/seymur_ig/' target="_blank"><IoLogoInstagram/></a>
             <a href='https://www.facebook.com/share/128zgjyq2w7/' target="_blank"><FaFacebookF/></a>
         </div>

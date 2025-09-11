@@ -26,11 +26,11 @@ const Header = () =>{
 
                         <div className="profilInfo">
                             <span>Seymur Farziyev</span>
-                            <p>Back - End Developer</p>
+                            <p>Front - End Developer</p>
                             <div className="profilsosial">
                                  <a href='https://www.linkedin.com/in/seymur-farziyev-33b577288/' target="_blank"><FaLinkedinIn/></a>
                                  <a href='https://wa.me/994559491633' target="_blank"><FaWhatsapp/></a>
-                                 <a href='https://github.com/Seymurss' target="_blank"><FaGithub/></a>
+                                 <a href='https://github.com/seymurfarziyevdev-debug' target="_blank"><FaGithub/></a>
                                  <a href='https://www.instagram.com/seymur_ig/' target="_blank"><IoLogoInstagram/></a>
                                  <a href='https://www.facebook.com/share/128zgjyq2w7/' target="_blank"><FaFacebookF/></a>
                             </div>
@@ -38,14 +38,12 @@ const Header = () =>{
                     </div>
                 </div>
                 <div className="infoCard">
-                    <h1>Hello, I’m <span className='name'>Seymur Farziyev</span>, <br/> <span>Back-End PHP</span> <br/> and <span class="bord">Laravel Developer  <i></i></span> <br/> Based in Azerbaijan.</h1>
+                    <h1>Hello <br/> I’m <span className='name'>Seymur Farziyev</span>, <br/> <span>Front-End </span> <span class="bord"> Developer  <i></i></span> <br/> Based in Azerbaijan.</h1>
                     <div className='Carerinfo'>
-                        <div><h1>02</h1><p>Years<br/> of Experance</p></div>
-                        <div><h1>40</h1><p>+<br/> Project</p></div>
                         <div>
                             <a
-                                href="/files/Seymur_Farziyev_Resume.pdf"
-                                download="Seymur_Farziyev_Resume"
+                                href="/files/Seymur.Farziyev.pdf"
+                                download="Seymur.Farziyev.pdf"
                                 className="butn butn-md butn-bord radius-5 skew"
                                 >
                                 <span>Download C.V</span>

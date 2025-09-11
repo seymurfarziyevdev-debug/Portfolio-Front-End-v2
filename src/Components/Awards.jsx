@@ -31,7 +31,7 @@ const Awards = () =>{
                                 <span>Full Stack Development</span>
                             </div>
                             <div className="certificate"  data-aos="fade-right" data-aos-delay="800">
-                                <p>2018/2024</p>
+                                <p>2018/2021</p>
                                 <img src={Aztu} alt="" />
                                 <span>Baku State College of Communications and Transport under the Azerbaijan <br/> Technical University</span>
                             </div>

@@ -45,10 +45,10 @@
                         padding: 13px 36px;
                         border: 1px solid #000000;
                         margin-top: 35px;
-                        transform: skewY(10deg);
+                        margin-left: 2.5%;
+                        position: absolute;
 
                         &:hover{
-                            transform: skewY(0deg);
                             background: black;
                             color: white;
                         }
