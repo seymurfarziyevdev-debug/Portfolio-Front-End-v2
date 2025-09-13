@@ -61,7 +61,7 @@ function Services({onScroll ,refs}) {
         </div>
         <div data-aos="fade" data-aos-delay="1100" className="box">
            <img src={seo} alt="" />
-       <span>SQL / MSSQL / MySQL Development</span>
+       <span className="sql">SQL / MSSQL / MySQL Development</span>
           <p>
             I design, manage, and optimize relational databases using SQL and MSSQL . 
             I ensure fast, reliable data access and build scalable solutions for complex applications.

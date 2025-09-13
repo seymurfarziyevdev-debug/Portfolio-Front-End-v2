@@ -116,3 +116,45 @@
         }
     }
 }
+
+
+
+@media (max-width: 480px) {
+    .services{
+        margin-top: 557px;
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 320px;
+        border-radius: 0px;
+        .servicesbox{
+            div{
+                width: 345px;
+                span{
+                    margin-top: 90px;
+                    margin-left: -21%;
+                    font-size: 17px;
+                }
+                p{
+                    font-size: 15px;
+                    margin-top: 30px;
+                }
+                .sql{
+                margin-left: -31%;
+
+                }
+
+                img{
+                    margin-top: 10px;
+                }
+            }
+        }
+    }
+    .links{
+        display: none;
+    }
+    .turn{
+        width: 84% !important;
+        text-align: unset !important;
+    }
+
+}

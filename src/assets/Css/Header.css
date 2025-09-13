@@ -251,6 +251,53 @@
   
 
 
+/* Mobil cihazlar üçün (kiçik ekranlı telefonlar) */
+
+
+@media (max-width: 480px) {
+  .Header{
+        margin-left: 0%;
+        width: 100%;
+        height: 622px;
+        position: relative;
+
+    .info{
+        background: #e6eaee;
+        height: 619px;
+        border-radius: 20px;
+        display: grid;
+
+        .infoCard{
+            h1{
+                font-size: 33px;
+                margin: 2% -3.1%;
+            }
+            .Carerinfo{
+                .butn.butn-bord{
+                    margin-left: 15.5% !important;
+                }
+            }
+        }
+    }
+}
+.Javascript{
+    margin: -54% -0% !important;
+}
+.VsCode{
+    margin: -11% 25% !important;
+}
+.github{
+    margin: -69% 69.8% !important;
+}
+.profileCard{
+    border-radius: 0px !important;
+    height: 622px !important;
+}
+.triangle-right{
+    display: none !important;
+}
+}
+
 
 
 

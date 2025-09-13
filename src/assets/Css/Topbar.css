@@ -48,3 +48,21 @@
         font-family: sans-serif;
     }
 }
+
+
+
+
+
+@media (max-width: 480px) {
+    .Topbar{
+        .logo{
+            display: none;
+        }
+        .sosial-links{
+            display: none;
+        }
+        .email{
+            margin-right: 35px;
+        }
+    }
+}
